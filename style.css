@@ -10,7 +10,8 @@ header{background: #ebebeb;
         margin-bottom: 20px;
         text-align:center;}
     
-    body{background: #777;
+    body{width:960px;
+        background: #777;
         font-size: 18px;
         font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;}
        
@@ -20,7 +21,7 @@ header{background: #ebebeb;
             padding: 10px;
             margin-bottom: 10px;
             text-align:center;
-            width:60%;
+            width: 495px;
             height: 300px;
             clear: both;
             overflow: auto;}
@@ -33,7 +34,7 @@ header{background: #ebebeb;
         text-align:center;
         clear: both;
         overflow: auto;
-        width: 40%;
+        width:  390px;
         height: 300px;}
 
     h1{float:left;
